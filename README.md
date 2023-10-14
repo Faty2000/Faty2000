@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Fatima Az-Zahrae Sghyar</h1>
-<h3 align="center">Embedded Software Engineer based in French</h3>
-<img src="https://www.creativefabrica.com/wp-content/uploads/2020/12/04/1607069264/Girl-coder-black-580x386.jpg" width="250" align="left">
+
+<p align="center">
+  <img src="https://www.creativefabrica.com/wp-content/uploads/2020/12/04/1607069264/Girl-coder-black-580x386.jpg" width="250" align="left">
+  <h1>Hi 👋, I'm Fatima Az-Zahrae Sghyar</h1>
+  <h3>Embedded Software Engineer based in France</h3>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faty2000&label=Profile%20views&color=0e75b6&style=flat" alt="faty2000" /> </p>
 
 - 🔭 I’m currently working on **Smart Home Application**
