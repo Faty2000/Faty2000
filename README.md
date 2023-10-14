@@ -1,8 +1,9 @@
 
 <p align="center">
-  <img aligh="center" alt="coding" width="10001" src ="https://previews.123rf.com/images/goodstudio/goodstudio2107/goodstudio210700336/administrator-setting-software.jpg">
+  
   <h1>Hi 👋, I'm Fatima Az-Zahrae Sghyar</h1>
   <h3>Embedded Software Engineer based in France</h3>
+  <img aligh="center" alt="coding" width="300" src ="https://previews.123rf.com/images/goodstudio/goodstudio2107/goodstudio210700336/administrator-setting-software.jpg">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faty2000&label=Profile%20views&color=0e75b6&style=flat" alt="faty2000" /> </p>
 
