@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Smart Home Application**
 
-- 🌱 I’m currently learning **- Advanced IoT Frameworks - Mobile Application Integration with IoT**
+- 🌱 I’m currently learning **- Advanced IoT Frameworks ,Real time embedded systems, FreeRtos, Cybersecurity in Embedded systems, Embedded AI, Mobile Application Integration with IoT**
 
 - 👨‍💻 Check my portfolio: [portfolio](https://fatimaazzahraesghyar.my.canva.site/home)
 
