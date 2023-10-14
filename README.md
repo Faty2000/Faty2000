@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faty2000&label=Profile%20views&color=0e75b6&style=flat" alt="faty2000" /> </p>
 
-- 📚 I’m currently Studing  on **Mines Saint-Étienne - ISMIN Engineer**
+- 📚 I’m currently Studing  on **Mines Saint-Étienne - ISMIN**
 
 - 🔭 I’m currently working on **Smart Home Application**
 
