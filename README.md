@@ -3,7 +3,6 @@
   
   <h1>Hi 👋, I'm Fatima Az-Zahrae Sghyar</h1>
   <h3>Embedded Software Engineer based in France</h3>
- </p>
 <img align="right" alt="coding" width="250" src ="https://previews.123rf.com/images/goodstudio/goodstudio2107/goodstudio210700336/administrator-setting-software.jpg">
    <h4>About Me:</h4>
   <p align:"left">
@@ -11,7 +10,9 @@
  
   
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faty2000&label=Profile%20views&color=0e75b6&style=flat" alt="faty2000" /> </p>
+</p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=faty2000&label=Profile%20views&color=0e75b6&style=flat" alt="faty2000" /> </p>
 
 - 📚 I’m currently Studing  on **Mines Saint-Étienne - ISMIN Engineer**
 
