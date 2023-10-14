@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://www.creativefabrica.com/wp-content/uploads/2020/12/04/1607069264/Girl-coder-black-580x386.jpg" width="250" align="left">
+  <img aligh="center" alt="coding" width="10001" src ="https://previews.123rf.com/images/goodstudio/goodstudio2107/goodstudio210700336/administrator-setting-software.jpg">
   <h1>Hi 👋, I'm Fatima Az-Zahrae Sghyar</h1>
   <h3>Embedded Software Engineer based in France</h3>
 </p>
