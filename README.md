@@ -22,6 +22,8 @@
 
 - 👨‍💻 Check my portfolio: [portfolio](https://fatimaazzahraesghyar.my.canva.site/home)
 
+- 👨‍💻 Check my Gitlab: [gitlab](https://gitlab.emse.fr/fatima.sghyar) 
+
 - 💬 Ask me about **Embedded Systems, Microcontrollers, Python,C/C++, VHDL, Raspberry Pi, STM32, Linux, and Arduino.**
 
 - 📫 How to reach me **fatima.sghyar@etu.emse.fr**
