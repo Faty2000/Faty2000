@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="250" src ="https://previews.123rf.com/images/goodstudio/goodstudio2107/goodstudio210700336/administrator-setting-software.jpg">
    <h4>About Me:</h4>
   <p align:"left">
-    I'm an embedded software engineering student with a passion for real-time embedded systems, FreeRTOS, and cybersecurity. I've worked on more than 20 projects, honing my skills and expanding my knowledge. Currently, I'm pursuing my studies at ISMIN and actively seeking an internship opportunity starting from April.
+    I'm an embedded software engineering student with a passion for real-time embedded systems, FreeRTOS, and cybersecurity. I've worked on more than 20 projects, honing my skills and expanding my knowledge. Currently, I'm pursuing my studies at ISMIN.
  
   
 </p>
